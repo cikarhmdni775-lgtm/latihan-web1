@@ -1,0 +1,1 @@
+"# latihan-web1"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/cikarhmdni775-lgtm/latihan-web1.gitgit push -u origin main
